@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "163538753391",
+    "firebase_url": "https://codingdunia-4272f.firebaseio.com",
+    "project_id": "codingdunia-4272f",
+    "storage_bucket": "codingdunia-4272f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163538753391:android:778804ac3dc2d0e422fa9a",
+        "android_client_info": {
+          "package_name": "com.cd.statussaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163538753391-ik3kae3r0q7tqtqs0sbh7mho9lehip5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBitp0aF9VS4WkeQyVWY3kPWeeVNj0dkfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163538753391-n4b4i3g63r8dbgrku66g9o9mnb9kol36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

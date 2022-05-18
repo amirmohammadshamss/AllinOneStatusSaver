@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name" translatable="false">استاتوس سیور</string>
+    <string name="tag_line" translatable="false">همه وضعیت را با یک کلیک دانلود کنید</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+    <string name="share_txt">سلام این تصویر را مشاهده / دانلود کنید</string>
+    <string name="share_image_via">اشتراک فایل از طریق ...</string>
+    <string name="share_app_message">با استفاده از این برنامه همه فیلم ها را دانلود کنید. اکنون دانلود کن</string>
+
+
+    <!--AdMob Id-->
+    <string name="admob_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_banner_ad" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_interstitial_ad" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+
+
+    <string name="fb_placement_id" translatable="false">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>
+    <string name="fb_placement_interstitial_id" translatable="false">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>
+
+
+
+    <string name="about_content">ورژن 1.0\n توسعه داده شده توسط :-\allinonex97@gmail.com</string>
+    <string name="aboutInfo">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="insta_app_name">Instegram</string>
+    <string name="insta_tag"><![CDATA[دانلود تصاویر و فیلمهای اینستاگرام]]></string>
+    <string name="whatsapp_app_name">WA &amp; WA Business</string>
+    <string name="whatsapp_tag"><![CDATA[ذخیره وضعیت واتساپ تصویر و فیلم ها]]></string>
+    <string name="tiktok_app_name">TikTok</string>
+    <string name="tiktok_tag">فیلم های TikTok را دانلود کنید</string>
+    <string name="likee_app_name">Likee</string>
+    <string name="likee_tag">دانلود فیلم های Likee</string>
+    <string name="facebook_app_name">Facebook</string>
+    <string name="fcebook_tag">دانلود فیلم های فیس بوک</string>
+    <string name="twitter_app_name">Twitter</string>
+    <string name="twitter_tag"><![CDATA[تصاویر و فیلم های توییتر را دانلود کنید]]></string>
+    <string name="gallery_name">گالری</string>
+    <string name="gallery_tag">همه رسانه دانلود شده خود را مشاهده کنید</string>
+    <string name="aboutus_name">درباره ما</string>
+    <string name="aboutus_tag">درباره برنامه بیشتر بدانید</string>
+    <string name="share_app_name">اشتراک گذاری </string>
+    <string name="share_app_tag">برنامه را با دوستان خود به اشتراک بگذارید</string>
+    <string name="rate_app_name">امتیاز </string>
+    <string name="rate_tag">در play store امتیاز دهید.</string>
+
+    <!--About Page-->
+    <string name="version_name">ورژن</string>
+    <string name="version_tag"> ورژن 1.0.0</string>
+    <string name="company_name_title">کمپانی</string>
+    <string name="company_tag_name">all in one</string>
+    <string name="email_title">ایمیل</string>
+    <string name="email_tag">allinonex97@gmail.com</string>
+    <string name="website_title">وبسایت</string>
+    <string name="website_tag">http://v2.awizhe.com/</string>
+    <string name="contact_title">تماس با ما</string>
+    <string name="contact_tag">/@allinonex97</string>
+    <string name="privacy_title">قوانین مقررات</string>
+    <string name="privacy_tag">مشاهده قوانین مقررات</string>
+    <string name="about_title">درباره ما</string>
+    <string name="second_how_too">2. اشتراک با استاتوس سیور</string>
+    <string name="fourth_how_too">2. با استاتوس سیور بار کنید </string>
+    <string name="prv_policy">قوانین مقررات</string>
+    <string name="opn_fb">1. باز کردن فیسبوک</string>
+    <string name="copy_video_link_frm_fb">1. پیوند ویدیو را از فیس بوک کپی کنید</string>
+    <string name="enter_url">وارد کردن لینک url</string>
+    <string name="enter_valid_url">لینک درست وارد کنید.</string>
+
+    <string name="do_u_want_to_dlt">آیا می خواهید حذف کنید؟</string>
+    <string name="file_deleted">فایل حذف شد</string>
+    <string name="opn_insta">1. باز کردن اینستاگرام</string>
+    <string name="cancel">لغو</string>
+    <string name="do_u_want_to_download_media_from_pvt">آیا نمی خواهید رسانه را از حساب شخصی دانلود کنید؟</string>
+    <string name="no_net_conn">خطا در انصال به اینترنت</string>
+    <string name="downloadin_video">در حال دانلود ویدئو ...</string>
+    <string name="download_complete">دانلود کامل شد</string>
+    <string name="pls_bck_again">برای خارج شدن دوباره ضربه بزنید.</string>
+    <string name="app_not_available">اپلیکیشن وجود ندارد.</string>
+    <string name="error_occurred">خطایی رخ داد.</string>
+    <string name="open_tiktok">1. باز کردن TikTok</string>
+    <string name="open_likee">1. بار کردن Likee</string>
+    <string name="copy_video_link_from_likee">1.  کپی لینک ویدیو ازLikee</string>
+    <string name="open_twitter">1. باز کردن Twitter</string>
+    <string name="no_media_on_tweet">بدون مدیا یا لینک نامعتبر</string>
+    <string name="images">تصاویر</string>
+    <string name="videos">ویدیوها</string>
+    <string name="saved_to"> ذخیره در:</string>
+    <string name="whatsapp_not_installed">واتس اپ نصب نیست.</string>
+    <string name="no_app_installed">اپلیکیشنی برای باز کردن این فایل وجود ندارد.</string>
+
+
+    <string name="how_to_download">نحوه دانلود</string>
+    <string name="or_download_using_copied_link">یا با استفاده از لینک کپی شده دانلود کنید</string>
+    <string name="share">اشتراک گذاری</string>
+    <string name="delete">حذف</string>
+    <string name="whatsapp">واتس اپ</string>
+    <string name="download_from_private_account">دانلود از حساب خصوصی</string>
+    <string name="paste_link">الصاق لینک</string>
+    <string name="without_watermark">بدون واتر مارک</string>
+    <string name="with_watermark">همراه با واترمارک</string>
+    <string name="download">دانلود</string>
+    <string name="paste">الصاق</string>
+    <string name="no_result_found">هیچ نتیجه ای یافت نشد</string>
+    <string name="downloading">در حال دانلود...</string>
+    <string name="getting_downloading_link">در حال دریافت لینک دانلود...</string>
+
+
+    <string name="gallery">گالری</string>
+    <string name="download_started">دانلود شروع شد.</string>
+    <string name="yes">بله</string>
+    <string name="no">خیر</string>
+    <string name="view_stories">مشاهده استوری ها و دانلود از حساب خصوصی</string>
+    <string name="login">ورود</string>
+    <string name="stories">استوری ها</string>
+
+    <string name="sharechat_app_name">ShareChat</string>
+    <string name="open_sharechat">1. ShareChat را باز کنید</string>
+    <string name="cop_link_from_sharechat">1. پیوند ویدیو را از ShareChat کپی کنید</string>
+
+    <string name="roposo_app_name">Roposo</string>
+    <string name="open_roposo">1. باز کردن Roposo</string>
+    <string name="cop_link_from_roposo">1. پیوند ویدیو را از Roposo کپی کنید .</string>
+
+    <string name="snack_app_name">Snack ویدیو</string>
+    <string name="open_snack">1. فیلم Snack را باز کنید</string>
+    <string name="cop_link_from_snack">1. پیوند ویدیو را از SnackVideo کپی کنید</string>
+    <string name="no_media_on_snackvideo">خطایی رخ داده است.</string>
+
+
+</resources>
