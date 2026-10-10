@@ -1,0 +1,2 @@
+pluginManagement { repositories { mavenCentral(); gradlePluginPortal() } }
+rootProject.name = 'status-saver-core-tests'

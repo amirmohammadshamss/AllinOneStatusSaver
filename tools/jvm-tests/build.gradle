@@ -1,0 +1,15 @@
+// Verify the resolver and atomic file store even on machines without an Android SDK.
+plugins { id 'org.jetbrains.kotlin.jvm' version '2.4.10' }
+repositories { mavenCentral() }
+kotlin { jvmToolchain(17) }
+sourceSets {
+    main.kotlin {
+        srcDir '../../app/src/main/kotlin'
+        include '**/MediaTypes.kt', '**/MediaFileStore.kt', '**/PublicMediaResolver.kt'
+    }
+    test.kotlin { srcDir '../../app/src/test/kotlin' }
+}
+dependencies {
+    implementation 'org.jsoup:jsoup:1.21.2'
+    testImplementation 'junit:junit:4.13.2'
+}
